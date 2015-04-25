@@ -1,4 +1,5 @@
 #Rotoblin-L4D2
+----
 ## What is Rotoblin?
 **Rotoblin** is(was) the last widely used/accepted competitive configuration for the original Left 4 Dead. It was the first to acknowledge the unbalanced and non-competitive nature of deadstops against hunters. Thus it became the first and the last config in L4D to remove them.
 
