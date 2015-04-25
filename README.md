@@ -39,5 +39,5 @@ As opposed to what other *Retro*-type config developers of L4D2 try to do, I wil
 
 ## Credits
 **Developer:** Visor  
-**Other ourcemod credits:** Jahze, CanadaRox, ProdigySim, Vintik, Jacob, Sir, Tabun, Stabby  
-**Other stripper credits:** Tabun, NF, EsToOpi, Jacob, Blade, CircleSquared  
+**Other Sourcemod credits:** Jahze, CanadaRox, ProdigySim, Vintik, Jacob, Sir, Tabun, Stabby  
+**Other Stripper credits:** Tabun, NF, EsToOpi, Jacob, Blade, CircleSquared  
